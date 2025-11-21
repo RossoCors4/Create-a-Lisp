@@ -46,7 +46,7 @@
 *.mod*
 *.cmd
 # Build folder
-*/bin/*
+bin/
 modules.order
 Module.symvers
 Mkfile.old
